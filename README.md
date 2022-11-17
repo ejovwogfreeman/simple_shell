@@ -42,4 +42,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [SAOBAN ABDRASHEED]([https://github.com/demystik]) and [EMMANUEL EZEKIEL SOLOMON](https://github.com/Kis123mas).
+All code written by Ejovwo Godbless and Frederick Arifiyie
